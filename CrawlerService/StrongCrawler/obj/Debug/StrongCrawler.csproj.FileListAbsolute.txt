@@ -1,0 +1,11 @@
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\StrongCrawler.dll
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\StrongCrawler.pdb
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\WebDriver.dll
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\WebDriver.Support.dll
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\obj\Debug\StrongCrawler.dll
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\obj\Debug\StrongCrawler.pdb
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\WebDriver.xml
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\bin\Debug\WebDriver.Support.xml
+C:\项目文件\CrawlerService\CrawlerService\StrongCrawler\obj\Debug\StrongCrawler.csprojResolveAssemblyReference.cache
